@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
