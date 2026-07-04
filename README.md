@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0704-binary-search) |
@@ -141,4 +143,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
