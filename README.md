@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0162-find-peak-element) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -158,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
