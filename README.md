@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
@@ -151,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
