@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
