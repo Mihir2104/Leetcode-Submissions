@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
