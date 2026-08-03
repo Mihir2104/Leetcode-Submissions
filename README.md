@@ -195,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0136-single-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
