@@ -6,25 +6,28 @@ class Solution {
             return 0;
         }
 
-        int longest = 1;
-
         Set<Integer> set = new HashSet<>();
 
-        for(int i : nums){
-            set.add(i);
+       int longest = 1;
+       
+
+       for(int i : nums){
+        set.add(i);
+       }
+
+       for(int st : set ){
+         int x = st - 1;
+         int count = 0;
+        if(!set.contains(st - 1)){
+            while(set.contains(x+1)){
+                count++;
+                x++;
+            }
         }
 
-        for(int it : set){
-            int cnt = 1 ;
-            int x = it;
-        if(!set.contains(it - 1)){
-            while(set.contains(x+1)){
-                x = x + 1;
-                cnt = cnt + 1;
-            }
-           longest = Math.max(longest, cnt);
-        }
-        }
-        return longest;
+        longest = Math.max(longest, count);
+       }
+
+       return longest ;
     }
 }
