@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
