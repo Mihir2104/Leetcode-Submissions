@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mihir2104/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
